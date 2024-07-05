@@ -1,0 +1,1 @@
+ E:\\mandir-wiki-flutter--feature-Madir_details\\mandir-wiki-flutter--feature-Madir_details\\.dart_tool\\flutter_build\\5ab94fdd252acb01d0701bf694cb4920\\native_assets.yaml: 
